@@ -1,3 +1,4 @@
 cd /d %~dp0
-node\node.exe main.js
+rem node\node.exe main.js
+node main.js
 pause
